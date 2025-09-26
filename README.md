@@ -1,1 +1,8 @@
-Sistema Experto 
+IMPLEMENTACIÓN DE UN SISTEMA EXPERTO QUE APOYA AL COMERCIO RETAIL EN PROMART HOMECENTER
+
+_ Andree Ochoa
+_ Mesias Miranda
+_ Edwin Turin
+
+
+----
