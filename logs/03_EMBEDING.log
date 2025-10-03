@@ -1,0 +1,20 @@
+2025-10-02 14:58:16,794 - INFO - PyTorch version 2.2.2 available.
+2025-10-02 14:58:16,795 - INFO - TensorFlow version 2.19.0 available.
+2025-10-02 14:58:16,795 - INFO - JAX version 0.6.1 available.
+2025-10-02 14:58:17,322 - INFO - Use pytorch device_name: mps
+2025-10-02 14:58:17,322 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L6-v2
+2025-10-02 14:58:23,238 - INFO - Se carga el corpus csv
+2025-10-02 14:58:24,861 - INFO - Se remplaza los chunk NULL por cadena vacia.
+2025-10-02 14:59:18,182 - INFO - Se guarda el embeding de Producto
+2025-10-02 15:00:51,387 - INFO - Se guarda el embeding de Ficha
+2025-10-02 15:01:54,996 - INFO - Se guarda el embeding de Descripcion
+2025-10-02 15:03:03,776 - INFO - Se guarda el embeding de Caracteristica
+2025-10-02 15:03:35,230 - INFO - Se guarda el embeding de Observaciones
+2025-10-02 15:04:15,953 - INFO - Se guarda el embeding de Recomendaciones
+2025-10-02 15:05:11,916 - INFO - Loading faiss.
+2025-10-02 15:05:12,086 - INFO - Successfully loaded faiss.
+2025-10-02 15:05:12,091 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-10-02 15:05:23,826 - INFO - Inicio de concatenacion de embedings
+2025-10-02 15:05:45,463 - INFO - Inicio de concatenacion de embedings
+2025-10-02 15:05:54,641 - INFO - Inicio de concatenacion de embedings
+2025-10-02 15:05:55,123 - INFO - Fin de concatenacion de embedings, total: 278940
