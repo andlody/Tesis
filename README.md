@@ -50,6 +50,36 @@ Correr de forma ordenada los notebooks desde el 01_EDA al 04_BASELINE
 
 ---
 
+## 🚀 Metodología
+
+**Etapas:**
+
+1. **Preparación de datos**
+
+   * Selección y limpieza de datasets obtenidos del ecommerce.
+   * Estructuracion de datos para generar chunks
+   * Generar emmbedings de los chunks
+
+2. **Diseño del modelo**
+
+   * Se convierte el el mensaje en un embending para ubicar los chunks similares (uso de RAG).
+   * Con un contexto seleccionado, se envia al SML para responder la consulta.
+
+3. **Evaluación y validación**
+
+   * Se crean un front html para poder realizar pruebas manuales.
+
+4. **Evaluación y validación**
+   * [En proceso]
+   * Pruebas automatizadas con una bateria de por lo menos 500 preguntas y respuestas, para ser validadas semanticamente.
+
+----
+DIAGRAMA DE FLUJO DE CONSULTA AL SISTEMA EXPERTO
+
+<img width="804" height="425" alt="Captura de pantalla 2025-09-25 a la(s) 8 29 01 p  m" src="https://github.com/user-attachments/assets/1cf92262-ac9e-4485-b2b9-7268e7167f8d" />
+
+---
+
 ## ⚙️ MODELOS UTILIZADOS
 
 - All-MiniLM-L6-v2
@@ -68,10 +98,7 @@ Correr de forma ordenada los notebooks desde el 01_EDA al 04_BASELINE
 <img width="1009" height="402" alt="Captura de pantalla 2025-09-25 a la(s) 8 28 18 p  m" src="https://github.com/user-attachments/assets/0dd7f34f-74f9-4de1-b522-437de2165ad3" />
 
 
-----
-DIAGRAMA DE FLUJO DE CONSULTA AL SISTEMA EXPERTO
 
-<img width="804" height="425" alt="Captura de pantalla 2025-09-25 a la(s) 8 29 01 p  m" src="https://github.com/user-attachments/assets/1cf92262-ac9e-4485-b2b9-7268e7167f8d" />
 
 
 ----
