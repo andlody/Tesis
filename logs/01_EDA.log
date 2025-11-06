@@ -8,3 +8,13 @@
 2025-10-30 04:29:49,034 - INFO - [Inicio] Generacion de Chunk de descripcion, caracteristicas, observaciones, recomendaciones
 2025-10-30 04:31:42,246 - INFO - [Fin] Generacion de Chunk de descripcion, caracteristicas, observaciones, recomendaciones
 2025-10-30 04:32:09,915 - INFO - Se actualiza el corpus (productos_corpus.csv)
+2025-11-05 11:46:58,028 - INFO - Se actualiza el corpus (productos_corpus.csv)
+2025-11-05 07:13:00,741 - INFO - Carga de data de prouctos
+2025-11-05 07:16:12,191 - INFO - Carga de data de descripcion del producto
+2025-11-05 07:20:56,045 - INFO - [Inicio] Generacion de Chunk de Producto
+2025-11-05 07:20:56,800 - INFO - [Fin] Generacion de Chunk de Producto
+2025-11-05 07:21:10,105 - INFO - [Inicio] Generacion de Chunk de Ficha
+2025-11-05 07:23:38,854 - INFO - [Fin] Generacion de Chunk de Ficha
+2025-11-05 07:29:49,034 - INFO - [Inicio] Generacion de Chunk de descripcion, caracteristicas, observaciones, recomendaciones
+2025-11-05 07:31:42,246 - INFO - [Fin] Generacion de Chunk de descripcion, caracteristicas, observaciones, recomendaciones
+2025-11-05 07:32:09,915 - INFO - Se actualiza el corpus (productos_corpus.csv)

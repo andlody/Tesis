@@ -32,7 +32,8 @@ notebooks/
  ├── 02_DOWNLOAD_MODEL.ipynb    # Script para la descarga de los modelos a usar de forma offline
  ├── 03_EMBEDING.ipynb          # Proceso de transformacion de los chunks a embedings
  ├── 04_BASELINE.ipynb          # Uso de los modelos con consultas SML
- └── 05_RESULTADOS.ipynb        # Resultados obtenidos del experimento
+ ├── 05_RESULTADOS_RAG.ipynb          # Uso de los modelos con consultas SML
+ └── 05_RESULTADOS_SML.ipynb        # Resultados obtenidos del experimento
 html/               
  ├── index.html               # Web de prueba de la aplicacion
  └── public                   # Css, Js, Imagenes y otros archivos.
@@ -70,9 +71,11 @@ Correr de forma ordenada los notebooks desde el 01_EDA al 04_BASELINE
    * Se crean un front html para poder realizar pruebas manuales.
 
 4. **Evaluación y validación**
-   * [En proceso]
    * Pruebas automatizadas con una bateria de por lo menos 500 preguntas y respuestas, para ser validadas semanticamente.
 
+## 🚀 Presupuesto
+
+**Etapas:**
 ----
 DIAGRAMA DE FLUJO DE CONSULTA AL SISTEMA EXPERTO
 

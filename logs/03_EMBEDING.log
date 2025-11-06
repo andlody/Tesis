@@ -40,3 +40,25 @@
 2025-10-30 08:18:17,598 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
 2025-10-30 08:21:25,547 - INFO - [Inicio] de concatenacion de embedings
 2025-10-30 08:21:26,070 - INFO - [Fin] de concatenacion de embedings, total: 278940
+2025-11-06 08:00:36,821 - INFO - [Inicio] Carga de modelo (all-MiniLM-Lx-v2)
+2025-11-06 08:00:36,849 - INFO - Use pytorch device_name: mps
+2025-11-06 08:00:36,849 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L12-v2
+2025-11-06 08:00:37,980 - INFO - [Fin] Carga de modelo (all-MiniLM-Lx-v2)
+2025-11-06 08:00:57,572 - INFO - Se carga el corpus csv
+2025-11-06 08:01:06,490 - INFO - Se remplaza los chunk NULL por cadena vacia.
+2025-11-06 08:03:37,556 - INFO - [Inicio] Generacion de embedings
+2025-11-06 08:07:10,519 - INFO - [Inicio] Generacion de embedings
+2025-11-06 08:08:39,031 - INFO - Se guarda el embeding de Producto
+2025-11-06 08:11:19,615 - INFO - Se guarda el embeding de Ficha
+2025-11-06 08:12:44,971 - INFO - Se guarda el embeding de Descripcion
+2025-11-06 08:14:06,328 - INFO - Se guarda el embeding de Caracteristica
+2025-11-06 08:14:50,557 - INFO - Se guarda el embeding de Observaciones
+2025-11-06 08:15:52,775 - INFO - Se guarda el embeding de Recomendaciones
+2025-11-06 08:15:52,777 - INFO - [Fin] Generacion de embedings
+2025-11-06 08:18:12,946 - INFO - Inicio de concatenacion de embedings
+2025-11-06 08:18:13,494 - INFO - Fin de concatenacion de embedings, total: 278940
+2025-11-06 08:18:16,757 - INFO - Loading faiss.
+2025-11-06 08:18:17,592 - INFO - Successfully loaded faiss.
+2025-11-06 08:18:17,598 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-11-06 08:21:25,547 - INFO - [Inicio] de concatenacion de embedings
+2025-11-06 08:21:26,070 - INFO - [Fin] de concatenacion de embedings, total: 278940

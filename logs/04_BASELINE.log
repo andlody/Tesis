@@ -6,4 +6,13 @@
 2025-10-02 15:09:35,753 - INFO - Inicio carga de modelo all-MiniLM-L6-v2
 2025-10-02 15:09:35,787 - INFO - Use pytorch device_name: mps
 2025-10-02 15:09:35,787 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L6-v2
-2025-10-02 15:09:36,538 - INFO - Fin carga de modelo all-MiniLM-L6-v2
+2025-10-02 14:09:32,538 - INFO - Fin carga de modelo all-MiniLM-L6-v2
+2025-10-06 14:08:05,492 - INFO - Inicio carga de modelo Phi-4-mini-instruct
+2025-10-06 14:08:40,231 - INFO - Fin carga de modelo Phi-4-mini-instruct
+2025-10-06 14:09:30,532 - INFO - PyTorch version 2.2.2 available.
+2025-10-06 14:09:30,553 - INFO - TensorFlow version 2.19.0 available.
+2025-10-06 14:09:32,525 - INFO - JAX version 0.6.1 available.
+2025-10-06 14:09:32,713 - INFO - Inicio carga de modelo all-MiniLM-L6-v2
+2025-10-06 14:09:33,727 - INFO - Use pytorch device_name: mps
+2025-10-06 14:09:35,737 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L6-v2
+2025-10-06 14:09:38,558 - INFO - Fin carga de modelo all-MiniLM-L6-v2
