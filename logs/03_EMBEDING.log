@@ -61,4 +61,4 @@
 2025-11-06 08:18:17,592 - INFO - Successfully loaded faiss.
 2025-11-06 08:18:17,598 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
 2025-11-06 08:21:25,547 - INFO - [Inicio] de concatenacion de embedings
-2025-11-06 08:21:26,070 - INFO - [Fin] de concatenacion de embedings, total: 278940
+2025-11-06 08:21:26,070 - INFO - [Fin] de concatenacion de embedings, total: 278940 

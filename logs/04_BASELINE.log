@@ -15,4 +15,4 @@
 2025-10-06 14:09:32,713 - INFO - Inicio carga de modelo all-MiniLM-L6-v2
 2025-10-06 14:09:33,727 - INFO - Use pytorch device_name: mps
 2025-10-06 14:09:35,737 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L6-v2
-2025-10-06 14:09:38,558 - INFO - Fin carga de modelo all-MiniLM-L6-v2
+2025-10-06 14:09:38,558 - INFO - Fin carga de modelo all-MiniLM-L6-v2 

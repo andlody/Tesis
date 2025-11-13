@@ -16,7 +16,7 @@
 2025-10-30 13:29:06,796 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L12-v2
 2025-10-30 13:46:17,951 - INFO - Use pytorch device_name: mps
 2025-10-30 13:46:17,951 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L6-v2
-2025-10-30 13:46:18,951 - INFO - Use pytorch device_name: mps
+2025-10-30 13:46:18,951 - INFO - Use pytorch device_name: mps 
 2025-10-30 13:46:18,951 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L12-v2
 2025-10-30 18:21:01,108 - INFO - Se carga el corpus csv
 2025-10-30 18:24:17,364 - INFO - Use pytorch device_name: mps
