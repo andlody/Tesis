@@ -72,6 +72,7 @@ Correr de forma ordenada los notebooks desde el 01_EDA al 04_BASELINE
 
 4. **Evaluación y validación**
    * Pruebas automatizadas con una bateria de por lo menos 500 preguntas y respuestas, para ser validadas semanticamente.
+   * [En proceso] Pruebas automatizadas con recopilacion de datos de las preguntas frecuentes de los consultores.
 
 ## 🚀 Presupuesto
 
