@@ -72,4 +72,44 @@
 2025-12-04 18:24:17,364 - INFO - Use pytorch device_name: mps
 2025-12-04 18:24:17,365 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L6-v2
 2025-12-04 18:24:20,739 - INFO - Use pytorch device_name: mps
-2025-12-04 18:24:20,739 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L12-v2
+2025-12-04 18:24:20,739 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L12-v22025-12-04 20:08:56,687 - INFO - [Inicio] de concatenacion de embedings
+2025-12-04 20:08:56,720 - INFO - [Fin] de concatenacion de embedings, total: 46490
+2025-12-04 20:09:02,954 - INFO - Loading faiss.
+2025-12-04 20:09:03,225 - INFO - Successfully loaded faiss.
+2025-12-04 20:09:03,230 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-12-04 20:09:34,220 - INFO - PyTorch version 2.2.2 available.
+2025-12-04 20:09:34,221 - INFO - TensorFlow version 2.19.0 available.
+2025-12-04 20:09:34,222 - INFO - JAX version 0.6.1 available.
+2025-12-04 20:09:35,257 - INFO - [Inicio] Carga de modelo (all-MiniLM-Lx-v2)
+2025-12-04 20:09:35,335 - INFO - Use pytorch device_name: mps
+2025-12-04 20:09:35,335 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L12-v2
+2025-12-04 20:09:36,694 - INFO - [Fin] Carga de modelo (all-MiniLM-Lx-v2)
+2025-12-04 20:09:52,213 - INFO - [Inicio] Carga de modelo (all-MiniLM-Lx-v2)
+2025-12-04 20:09:52,216 - INFO - Use pytorch device_name: mps
+2025-12-04 20:09:52,216 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L6-v2
+2025-12-04 20:09:52,510 - INFO - [Fin] Carga de modelo (all-MiniLM-Lx-v2)
+2025-12-04 20:10:01,782 - INFO - [Inicio] Carga de modelo (all-MiniLM-Lx-v2)
+2025-12-04 20:10:01,795 - INFO - Use pytorch device_name: mps
+2025-12-04 20:10:01,796 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L6-v2
+2025-12-04 20:10:02,089 - INFO - [Fin] Carga de modelo (all-MiniLM-Lx-v2)
+2025-12-04 20:31:17,937 - INFO - Se carga el corpus csv
+2025-12-04 20:35:09,489 - INFO - [Inicio] de concatenacion de embedings
+2025-12-04 20:35:09,515 - INFO - [Fin] de concatenacion de embedings, total: 46490
+2025-12-04 20:35:11,856 - INFO - Loading faiss.
+2025-12-04 20:35:11,900 - INFO - Successfully loaded faiss.
+2025-12-04 20:35:11,903 - INFO - Failed to load GPU Faiss: name 'GpuIndexIVFFlat' is not defined. Will not load constructor refs for GPU indexes. This is only an error if you're trying to use GPU Faiss.
+2025-12-04 20:35:23,453 - INFO - PyTorch version 2.2.2 available.
+2025-12-04 20:35:23,454 - INFO - TensorFlow version 2.19.0 available.
+2025-12-04 20:35:23,454 - INFO - JAX version 0.6.1 available.
+2025-12-04 20:35:23,916 - INFO - [Inicio] Carga de modelo (all-MiniLM-Lx-v2)
+2025-12-04 20:35:23,955 - INFO - Use pytorch device_name: mps
+2025-12-04 20:35:23,955 - INFO - Load pretrained SentenceTransformer: ../modelos/all-MiniLM-L6-v2
+2025-12-04 20:35:25,044 - INFO - [Fin] Carga de modelo (all-MiniLM-Lx-v2)
+2025-12-04 20:35:44,804 - INFO - Se carga el corpus csv
+2025-12-04 23:38:06,869 - INFO - [Inicio] de concatenacion de embedings
+2025-12-04 23:38:06,921 - INFO - [Fin] de concatenacion de embedings, total: 46490
+2025-12-04 23:38:08,888 - INFO - [Inicio] de concatenacion de embedings
+2025-12-04 23:38:08,915 - INFO - [Fin] de concatenacion de embedings, total: 46490
+2025-12-04 23:38:36,525 - INFO - Se carga el corpus csv
+2025-12-04 23:42:29,188 - INFO - Use pytorch device_name: mps
+2025-12-04 23:42:29,189 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
