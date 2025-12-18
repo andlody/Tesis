@@ -112,4 +112,4 @@
 2025-12-04 23:38:08,915 - INFO - [Fin] de concatenacion de embedings, total: 46490
 2025-12-04 23:38:36,525 - INFO - Se carga el corpus csv
 2025-12-04 23:42:29,188 - INFO - Use pytorch device_name: mps
-2025-12-04 23:42:29,189 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-12-04 23:42:29,189 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2x 
